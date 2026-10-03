@@ -106,23 +106,4 @@ An interval tree is a data structure used to efficiently find intervals that ove
 - **Delete**: O(log n) - Uses AVL tree deletion with rotations  
 - **Search**: O(log n) - Finds any overlapping interval efficiently
 
-## Browser Support
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Acknowledgments
-
-- Interval Tree data structure based on CLRS algorithm
-- AVL tree balancing for optimal performance
-- SVG rendering for crisp, scalable tree visualization
